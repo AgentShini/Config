@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any available projects
 - 📫 How to reach me ...makande996@gmail.com
      twitter @Yaboigoku2
-     linkedln linkedin.com/in/mayowa-akande-105247246/
+     linkedln https://www.linkedin.com/in/mayoral13/
 
 <!---
 Mayoral13/Mayoral13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
