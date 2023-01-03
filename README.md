@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mayoral 13
-- 👀 I’m interested in BlockChain Development(Solidity)
-- 🌱 I’m currently learning Solidity
+- 👋 Hi, I’m @Mayowa
+- 👀 I’m interested in BlockChain Development and Backend Development
+- 🌱 I’m currently learning more about the backend and using Golang
 - 💞️ I’m looking to collaborate on any available projects
 - 📫 How to reach me ...makande996@gmail.com
      twitter @Yaboigoku2
