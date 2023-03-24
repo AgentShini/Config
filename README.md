@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mayowa
-- 👀 I’m interested in BlockChain Development and Backend Development
-- 🌱 I’m currently learning more about the backend and using Golang
+- 👀 I’m interested in Backend Development And Working With PHP And Laravel
 - 💞️ I’m looking to collaborate on any available projects
 - 📫 How to reach me ...makande996@gmail.com
      twitter @Yaboigoku2
