@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Mayowa
 - 👀 I’m interested in Backend Development And Working With PHP And Laravel
 - 💞️ I’m looking to collaborate on any available projects
--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?userMayoral13)](https://git.io/streak-stats)
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?userMayoral13)](https://git.io/streak-stats)
      
      [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
