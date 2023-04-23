@@ -13,6 +13,7 @@
      
      
      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mayoral13&show_icons=true&theme=transparent)
+     ![](https://komarev.com/ghpvc/?username=Mayoral13)
 
 
    
