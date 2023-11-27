@@ -1,7 +1,7 @@
-- 👀 Hi, I'm Mayowa, a Full Stack Developer with a focus on PHP and Laravel for backend development and ReactJS for frontend development.
+- 👀 Hi, I'm Mayowa, a Full Stack Developer with a focus on Laravel and ExpressJS for backend development and ReactJS for frontend development.
 -  I'm also passionate about expanding my skill set to include frontend development with React and blockchain development with Solidity.
 
-- 💞️ I'm actively seeking collaborative opportunities on projects that involve a combination of PHP/Laravel, React, and Solidity. I'm excited to contribute my expertise in backend development and eager to grow my knowledge in frontend development and blockchain technology.
+- 💞️ I'm actively seeking collaborative opportunities on projects that involve a combination of PHP/Laravel, React, MERN Stack and Solidity. I'm excited to contribute my expertise in backend development and eager to grow my knowledge in frontend development and blockchain technology.
 
   
      
